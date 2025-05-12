@@ -8,10 +8,10 @@ This Python script scans all active processes on a Linux system using the `psuti
 - Prints process name, PID, parent name, and command line
 
 ## 📸 Screenshots
-![Code View](./suspicious_monitor_script.png)  
-![Output Part 1](./suspicious_monitor_output_1.png)  
-![Output Part 2](./suspicious_monitor_output_2.png)  
-![Output Part 3](./suspicious_monitor_output_3.png)
+![Code View](./suspicious_process_monitor_script_python_code.png)  
+![Output Part 1](./suspicious_process_monitor_output_part_1.png)  
+![Output Part 2](./suspicious_process_monitor_output_part_2.png)  
+![Output Part 3](./suspicious_process_monitor_output_part_3.png)
 
 ## 🛠 Usage
 ```bash
